@@ -1,4 +1,3 @@
 <?php
-echo $_GET['imie'];
-echo $_GET['nazwisko'];
+echo $_GET['imie'].' '.$_GET['nazwisko'];
 ?>
